@@ -30,7 +30,7 @@ Meta Team Time Data Report Distributed under the GNU General Public License v3.0
 
 ### Contributing
 
-Fork it https://github.com/Edwin-Kutsushi/Moringa-DSC-week-2-IP.git
+Fork it 
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
