@@ -26,11 +26,11 @@ We carried out different analysis on the data. A random sample was taken into ac
 From our hypothesis we can conclude that, based on the p-value = 0.92 > α = 0.05, we fail to reject our null hypothesis. The difference between BlueCars taken sum and BlueCars returned sum of n daily data point of 1439 are not statistically significant. There was no enough evidence to show there was a difference in BlueCars taken and those returned. We therefore conclude that there was a relationship between the blue cars that were taken and those that were returned.
 
 ### This is the first release.
-Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Moringa-DSC-week-2-IP.git
+Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Moringa-DSC7-Week-4-IP.git
 
 ### Contributing
 
-Fork it 
+Fork it https://github.com/Edwin-Kutsushi/Moringa-DSC7-Week-4-IP.git
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
